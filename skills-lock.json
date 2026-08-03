@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "github-profile": {
+      "source": "jdevalk/skills",
+      "sourceType": "github",
+      "skillPath": "github-profile/SKILL.md",
+      "computedHash": "fa1ec76aa021a0272714482348e28f9684f235db5cfbd16d378eca2b69b71ce3"
+    }
+  }
+}
