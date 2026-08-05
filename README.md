@@ -122,17 +122,6 @@
 </p>
 <p align="center"><img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=felykscode&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></p>    
-<p align="center">
-    <a href="https://github.com/felykscode">
-        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=felykscode&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
-    </a>
-</p>
-<p align="center">
-    <a href="https://github.com/felykscode"><img alt="vaibhav's Github Stats"
-            src="https://github-readme-stats.vercel.app/api?username=felykscode&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-     </a>
-</p>
 
   <!-- deivder -->
 
