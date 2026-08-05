@@ -120,17 +120,6 @@
     <img src="https://img.shields.io/badge/LLM_Integration-5B21B6?style=for-the-badge&logo=openai&logoColor=white"
         alt="llm" />
 </p>
-<p align="center"><img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=felykscode&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></p>    
-
-  <!-- deivder -->
-
-  <p align="center">
-    <a href="https://github.com/FelyksCode"><span>
-        <img align="center"
-          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felykscode&theme=github_dark" width="100%" />
-      </span></a>
-  </p>
 
   <p align="center">
       <img src="./github-metrics.svg" alt="metrics" width="100%" />
